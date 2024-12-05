@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(115, 115, 168);
+
+}
+h1{
+    text-align: center;
+    margin-top: 250px;
+    font-size: 75px;
+    
+}
